@@ -3,7 +3,7 @@
 [Projects](https://google.com) | [Blog](https://google.com) | [About Me](https://google.com)
 
 ## Latest Projects.
----
+
 ### [TerraComp Stock Analysis](https://colab.research.google.com/gist/wolejnr/773315a56e6b3cb8cbfdd1f3193eebc3/test2.ipynb)
 This project was executed on behalf of TerraComp Inc. The goal was to analyzed the stock market data presented by Yahoo Finance
 so as to determine viable stocks to be purchased.
