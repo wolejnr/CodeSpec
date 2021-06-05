@@ -1,6 +1,6 @@
 # CodeSpec
 
-[Projects](https://google.com) | [Blog](https://google.com) | [About Me](about.md)
+[Projects](https://google.com) | [Resume](resume.md) | [About Me](about.md)
 
 ## Latest Projects.
 
