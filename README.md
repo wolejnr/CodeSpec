@@ -11,4 +11,4 @@ so as to determine viable stocks to be purchased.
 * **Requests** - is a Python library used to scrape the Yahoo Finance site
 * **Pandas** - was the Python library used to store and manipulate the data retrieved from Yahoo Finance
 
-![DataFrame showing sort by volume ascending](image.jpg)
+![DataFrame showing sort by volume ascending](image.png)
